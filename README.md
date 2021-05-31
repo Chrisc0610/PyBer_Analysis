@@ -45,9 +45,9 @@ The results for the new DataFrame are explained in more detail below.
 	* [Total City by Fare Type](Resources/PyBer_fare_summary.PNG)	
 	
 		- The Average Fare per Driver is the most expensive in a Rural city type. some of the factors that attribute to this is 
-		the fact that there are a low amount of drivers (total of 78) as compared to the Suruban (total of 625) and Urban (total of 1625) city types. 
+			the fact that there are a low amount of drivers (total of 78) as compared to the Suruban (total of 625) and Urban (total of 1625) city types. 
 		- A solution to this could be getting more drivers out in the rural city types this would bring the cost of fares per driver while increasing
-		the amount of total fares to compete to Suburban and Urban City types.
+			the amount of total fares to compete to Suburban and Urban City types.
 		- We can also see that in the month of March the is a spike and fall for each week in the Urban city types.
 		- This can attribute as to why there is such a high amount of total fares in the Urban area.
 		- Based of our Line Plot we can see that aproaching summer the total amount in fares in the Suburban city types increases.
